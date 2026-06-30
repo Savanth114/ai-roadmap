@@ -208,50 +208,6 @@ The platform combines roadmap visualization, progress tracking, analytics, gamif
    - System safety protection mechanisms (NeMo Guardrails, Llama Guard inputs)
    - Data privacy enhancement applications (Differential privacy, Homomorphic encryption)
    - Regulatory legislative standard reviews (EU AI Act compliance metrics, NIST)
-#  AI Learning Roadmap
-
-The roadmap is divided into five major learning levels.
-
-## 🟢 Level 1 — Core Foundations
-
-- Python Programming
-- Mathematics for AI
-- Artificial Intelligence Fundamentals
-
----
-
-## 🔵 Level 2 — Data & Core Modeling
-
-- Database Systems
-- Machine Learning
-- Data Engineering
-
----
-
-## 🟣 Level 3 — Deep Learning & Linguistics
-
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- Generative AI
-
----
-
-## 🟠 Level 4 — Advanced AI Systems
-
-- Agentic AI
-- Reinforcement Learning
-- Fuzzy Logic
-
----
-
-## 🔴 Level 5 — Infrastructure & Deployment
-
-- Docker
-- Cloud Computing (AWS)
-- AI Governance
-- Explainable AI
-- AI Safety
 
 ---
 
@@ -324,12 +280,10 @@ Visualize your learning with:
 ## Backend
 
 - Node.js
-- Express.js
 
 ## Database
 
 - Supabase
-- PostgreSQL
 
 ## Charts & Visualization
 
