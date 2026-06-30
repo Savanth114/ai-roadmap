@@ -42,7 +42,7 @@ The platform combines roadmap visualization, progress tracking, analytics, gamif
 - 🌙 Dark Mode
 
 ---
-                  ## 🧠 THE COMPLETE 15-PHASE AI LEARNING ROADMAP
+## 🧠 THE COMPLETE 15-PHASE AI LEARNING ROADMAP
 
 --------------------------------------------------------------------------------
 ## 🟢 PHASE 1: Core Foundations
@@ -350,13 +350,62 @@ Learners can track their progress, follow a clear roadmap, and build projects wh
 
 # 🤝 Contributing
 
-Contributions, ideas, feature requests, and bug reports are always welcome.
+Contributions, ideas, feature requests, and bug reports are always welcome!
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
+## Steps to Contribute
+
+### 1. Fork the repository
+
+Click the **Fork** button on GitHub to create your own copy of the project.
+
+### 2. Clone your fork
+
+```bash
+git clone https://github.com/<your-username>/ai-roadmap.git
+cd ai-roadmap
+```
+
+### 3. Create a new branch
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+### 4. Make your changes
+
+Implement your feature or bug fix.
+
+### 5. Stage your changes
+
+```bash
+git add .
+```
+
+### 6. Commit your changes
+
+```bash
+git commit -m "Add: Short description of your changes"
+```
+
+### 7. Push your branch
+
+```bash
+git push origin feature/your-feature-name
+```
+
+### 8. Create a Pull Request
+
+Open your fork on GitHub and click **New Pull Request** to submit your changes for review.
+
+## Contribution Guidelines
+
+- Follow the existing project structure.
+- Write clean and readable code.
+- Test your changes before submitting.
+- Keep pull requests focused on a single feature or fix.
+- Update documentation if your changes affect usage.
+
+Thank you for contributing to **AI Roadmap**! 🚀
 
 ---
 
