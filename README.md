@@ -42,9 +42,7 @@ The platform combines roadmap visualization, progress tracking, analytics, gamif
 - 🌙 Dark Mode
 
 ---
-================================================================================
                   ## 🧠 THE COMPLETE 15-PHASE AI LEARNING ROADMAP
-================================================================================
 
 --------------------------------------------------------------------------------
 ## 🟢 PHASE 1: Core Foundations
